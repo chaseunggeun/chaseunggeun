@@ -14,7 +14,7 @@
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
-  
+  /*
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
-  <br/>
+  <br/> */
   
   ### ETC
   <!--Amazon AWS-->
