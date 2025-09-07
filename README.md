@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### 이름 : 차승근
-  #### 포트폴리오 <a href="https://befitting-jacket-6cb.notion.site/24f817da2475803ab13be6dc7ae9000a?source=copy_link" target="_blank">
+  #### 포트폴리오: <a href="https://befitting-jacket-6cb.notion.site/24f817da2475803ab13be6dc7ae9000a?source=copy_link" target="_blank">바로가기 🚀</a>
   <br/>
   <br/>
 
